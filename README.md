@@ -8,8 +8,8 @@
 
 ### 환경
 
-* 개발언어 : C#
-* 개발툴 : Visual Studio 2013
+* Skills : C#
+* Tools : Visual Studio 2013
 
 ### 진행 상황
 
